@@ -1,0 +1,81 @@
+input.one{
+    margin-left:300px;
+    width: 600px;
+    height: 45px;
+    border-radius:25px;  
+    background-color: blanchedalmond;
+    border-style: none;
+    padding-left: 12px;
+    font-family: sans-serif;
+}
+input.one1{
+    margin-left:20px;
+    width: 300px;
+    height: 45px;
+    border-radius:25px;  
+    background-color: blanchedalmond;
+    border-style: none;
+    padding-left: 12px;
+    font-family: sans-serif;
+}
+textarea.one2{
+    margin-top: 20px;
+    margin-left:230px;
+    width: 930px;
+    height: 130px;
+    border-radius:25px;  
+    background-color: blanchedalmond;
+    border-style: none;
+    padding-top: 10px;
+    padding-left: 12px;
+    font-family: sans-serif;
+}
+select{
+    margin-left:230px;
+    margin-top: 20px;
+    width: 930px;
+    height: 45px;
+    border-radius:25px;  
+    background-color: blanchedalmond;
+    border-style: none;
+    padding-left: 12px;
+    font-family: sans-serif;
+}
+input.botton{
+    margin-right: 350px;
+    width: 300px;
+    height: 55px;
+    border-radius:25px;  
+    background-color: blanchedalmond;
+    border-style: none;
+    font-family: sans-serif;
+}
+table.tabela{
+
+/*  background: #ccc url(https://www.devfuria.com.br/html-css/tabelas/bar.gif) repeat-x left center;*/
+    margin-top: 30px;
+    background-color: blanchedalmond;
+    width: 900px;
+    height: 200px;
+    border-top: 1px solid #a5a5a5;
+    border-bottom: 1px solid #a5a5a5;
+    margin-left: 30px;
+    border-collapse: collapse;
+    width: 50em;
+    border: 1px solid blanchedalmond;
+    border-radius: 20px;
+    font-family: sans-serif;
+    
+}
+th.titulo{
+    
+    
+}
+th, td {
+    text-align: center;
+  padding: 0.1em 1em;
+}
+tr:hover {
+  background-color:#3d80df;
+  color: #fff;
+}
